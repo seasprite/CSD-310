@@ -1,0 +1,18 @@
+Folks,
+I've found a fix for those with connection errors in Pycharm. 
+When I did the screen capture, though, it doesn't include popup windows.
+So, what you see initially is my running mysql_test.py in PyCharm and the resulting errors.
+I then go to (popup window started here...) File ->Settings->Python Interpreter
+Click on the + sign, type in mysql at the top, and select 'mysql-connector-python'
+Click on 'Install Package'
+Once the package is installed, you'll see that the mysql_test.py now does run in PyCharm.
+
+
+
+Give the huge amount of data that can be collected... at some point a decision would be made on what to collect. Would you theorize what what type of data might be collected long term? Short term?
+
+
+Thanks,
+
+
+Prof. Sue
