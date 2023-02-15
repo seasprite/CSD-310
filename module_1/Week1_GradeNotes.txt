@@ -14,6 +14,7 @@ Nothing submitted.
 
 There was no name on this.. be careful, if it happens in the future, the assignment grade will be zero.
 Nicely done, you met the requirements.
+
 -20 points = you did not clone YOUR repository to your local file, as required. The assignment did not state to clone the example course repository.
 
 - 5 points = you did not initialize this repository with a README.md, as required.
@@ -22,11 +23,21 @@ Nicely done, you met the requirements.
 - 20 points = you did not include a github screenshot, as required.
 - 10 points = you did not provide a github site URL, as required.
 
+- 5 points = you did not provide an example of a relationship, as required.
 - 10 points = you did not provide a description and example of a relationship, as required.
+
+- 5 points = you did not provide advantages of NoSQL databases, as required.
+- 5 points = you did not provide disadvantages of NoSQL databases, as required.
+- 5 points = you did not provide a description of two features of MongoDB, as required.
+
 - 10 points = you did not provide a description of advantages of both databases, as required.
 - 10 points = you did not provide a description of disadvantages of both databases, as required.
 - 10 points = you did not identify two features of MySQL, describe them, and explain how they are used, as required.
 - 10 points = you did not identify two features of MongoDB, describe them, and explain how they are used, as required.
+Good examples!
+
+In academic assignments you need to format your references using either APA or MLA standards.
+In academic assignments you need to make sure your references are in alpha order by first known field.
 
 Folks ~
 I've posted the grades in Blackboard, please make sure that you can see yours. If you you did not receive full points, you'll see a comment as to what was missing from the assignment. I've posted the grades in Blackboard, please make sure that you can see yours. If you you did not receive full points, you'll see a comment as to what was missing from the assignment. 
@@ -38,6 +49,8 @@ Module 1.2: Good! Most of you got this exactly right. You were to create your ow
 Module 1.3: Looks like everyone got this done. While we will be focusing on MySQL, you do need to know about NoSQL databases also as they are being used more and more.
  
 Couple of comments... first.. put your name in every file you upload. When I download, if there is no name, I don't know whose work it is. Whether ,docx, .pptx, .xls, code, UML, etc..., all need your name to appear in the document. If this continues to be an issue, I'll give zero points for anonymous submissions.
+
+You haven't be tasked with pushing files to GitHub yet.. if you want a preview of how that work, W3Schools has a great tutorial: https://www.w3schools.com/git/default.asp?remote=github
 
 You got the grades early, as I am having knee surgery on Wednesday, and will be unavailable the rest of the week. If you have questions or issues, contact Darrell Payne, or Phil Fitzpatrick (pfitzpat@bellevue.edu), or ask for help from other students in Bb or Discord.
 
